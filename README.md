@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anurag Pathak</h1>
 <h3 align="center">A passionate student who is looking for opportunities to develop his skills.</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zorgzappy&label=Profile%20views&color=0e75b6&style=flat" alt="zorgzappy" /> </p>
 
 - 🔭 I’m currently working on [a React-JS Website](https://github.com/zorgzappy/React-Website)
